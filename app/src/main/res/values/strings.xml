@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AboutMePracticalG356</string>
+    <string name="name">Zhi Hin</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet
+        \n\nconsectetur adipiscing elit. Vestibulum pretium rhoncus varius.
+        \n\nNulla lorem felis, pretium sit amet eros at, interdum ultrices lectus.
+        \n\nNunc vel enim eget nibh molestie ultricies.
+        \n\nPraesent ac lorem feugiat, congue leo quis, efficitur neque.
+        \n\nDuis efficitur libero elit, sit amet sodales eros fermentum vitae.
+        \n\nProin dignissim lacus euismod elementum tempor.
+        \n\nMorbi auctor tortor ligula, eget interdum urna consequat non.
+        \n\nDonec pharetra porta nibh non laoreet. Phasellus et auctor urna.
+        \n\nUt lacinia vulputate tempus. Nam iaculis arcu nibh, scelerisque pretium ex rhoncus tempor.
+        \n\nCurabitur sit amet leo libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \n\nAliquam eget accumsan magna. Nam rhoncus odio sed lacinia egestas.
+        \n\nMorbi mollis, ante ut mattis pharetra, turpis velit finibus purus, et convallis nisi enim at ligula.
+        \n\nSuspendisse potenti. Duis eros felis, scelerisque nec augue vel, pretium posuere massa.
+        \n\nSed ultrices sit amet sapien in blandit.
+        \n\nProin sit amet maximus diam, a iaculis eros.
+        \n\nPhasellus finibus vel tellus sit amet gravida.
+        \n\nSed commodo enim at euismod scelerisque.
+        \n\nDonec nunc enim, congue vitae orci quis, lobortis accumsan tellus.
+        \n\nPraesent mi massa, volutpat a lectus pulvinar, vestibulum mattis nisi. Sed nec viverra lacus.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
